@@ -1,0 +1,28 @@
+{
+    "name": "PN532",
+    "version": "1.0.0",
+    "description": "PN532_SPI branch PN532_HSU. This is an Arduino library for PN532 to use NFC technology SPI interface",
+    "keywords": "PNN32_SPI,  Elechouse",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:elechouse/PN532.git"
+    },
+    "export": {
+        "exclude": [
+            "main.cpp"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Elechouse",
+            "email": "service@elechouse.com",
+            "url": "http://www.elechouse.com/elechouse/",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "http://www.elechouse.com/elechouse/",
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+}
